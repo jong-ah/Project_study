@@ -1,6 +1,6 @@
 # Project_study
 
-[Study Notion (스터디 일정)](https://www.notion.so/13237381521f48e7868e9093bcc636a5, "Notion Link") 
+[Study Notion (스터디 일정)](https://crawling-toque-0d8.notion.site/13237381521f48e7868e9093bcc636a5 "Notion Link") 
 
 <br/>
 
