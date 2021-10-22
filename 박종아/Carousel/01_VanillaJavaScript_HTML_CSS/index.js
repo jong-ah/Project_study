@@ -16,7 +16,7 @@ let lastChild = slideList.lastElementChild;
 let clonedFirst = firstChild.cloneNode(true);
 let clonedLast = lastChild.cloneNode(true);
 
-// clone을 만든 이유는 1번과 5번 앞뒤로 넣어놓기 위해서이다. (자연스언 이동 애니메이션 0.3초)
+// clone을 만든 이유는 1번과 5번 앞뒤로 넣어놓기 위해서이다. (자연스러운 이동 애니메이션 0.3초)
 // 0.3초가 지나자마자 (원본) 1번 슬라이드 위치로 이동한다.
 
 slideList.appendChild(clonedFirst);
